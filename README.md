@@ -33,6 +33,3 @@ Feel free to customize the template according to your project needs. Here are so
 - Customize styles using Tailwind CSS and Daisy UI utilities.
 - Utilize React Icons by importing the desired icons into your components.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
