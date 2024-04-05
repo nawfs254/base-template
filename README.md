@@ -14,7 +14,7 @@ This repository contains a template for building a React website using Vite as t
 
 Follow these steps to get started with the template:
 
-1. Clone this repository: `git clone https://github.com/yourusername/react-website-template.git`
+1. Clone this repository: `git clone https://github.com/nawfs254/react-website-template.git`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm run dev`
 4. Build for production: `npm run build`
